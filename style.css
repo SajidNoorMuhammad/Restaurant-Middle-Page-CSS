@@ -1,0 +1,33 @@
+
+body {
+    background-color: black;
+}
+
+@font-face {
+    font-family: one;
+    src: url(DancingScript-VariableFont_wght.ttf);
+}
+.one {
+    font-family: one;
+}
+a {
+    color: red;
+}
+.one {
+    text-decoration: underline;
+}
+.two {
+    color: red;
+}
+.two {
+    text-align: center;
+}
+.three {
+    color: red;
+}
+.three {
+    text-align: center;
+}
+.four {
+
+}

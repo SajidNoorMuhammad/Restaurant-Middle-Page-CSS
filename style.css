@@ -31,3 +31,6 @@ a {
 .four {
 
 }
+a :visited {
+    color: darkgreen;
+}
